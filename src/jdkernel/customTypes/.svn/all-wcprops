@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/656/trunk/src/cmupdaterapp/customTypes
+END
+FullUpdateInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/639/trunk/src/cmupdaterapp/customTypes/FullUpdateInfo.java
+END
+FullThemeList.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/639/trunk/src/cmupdaterapp/customTypes/FullThemeList.java
+END
+Version.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/641/trunk/src/cmupdaterapp/customTypes/Version.java
+END
+UpdateInfo.aidl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/553/trunk/src/cmupdaterapp/customTypes/UpdateInfo.aidl
+END
+FullUpdateInfo.aidl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/563/trunk/src/cmupdaterapp/customTypes/FullUpdateInfo.aidl
+END
+DownloadProgress.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/639/trunk/src/cmupdaterapp/customTypes/DownloadProgress.java
+END
+Screenshot.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/639/trunk/src/cmupdaterapp/customTypes/Screenshot.java
+END
+UpdateInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/656/trunk/src/cmupdaterapp/customTypes/UpdateInfo.java
+END
+ThemeList.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/639/trunk/src/cmupdaterapp/customTypes/ThemeList.java
+END
+ThemeInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/639/trunk/src/cmupdaterapp/customTypes/ThemeInfo.java
+END

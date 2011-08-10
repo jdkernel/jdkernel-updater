@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/657/trunk/src/cmupdaterapp/ui
+END
+MainActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/656/trunk/src/cmupdaterapp/ui/MainActivity.java
+END
+ConfigActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/657/trunk/src/cmupdaterapp/ui/ConfigActivity.java
+END
+DownloadActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/639/trunk/src/cmupdaterapp/ui/DownloadActivity.java
+END
+ApplyUpdateActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/639/trunk/src/cmupdaterapp/ui/ApplyUpdateActivity.java
+END
+ThemeListNewActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/639/trunk/src/cmupdaterapp/ui/ThemeListNewActivity.java
+END
+ScreenshotActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/657/trunk/src/cmupdaterapp/ui/ScreenshotActivity.java
+END
+ThemeListActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/657/trunk/src/cmupdaterapp/ui/ThemeListActivity.java
+END
+ScreenshotDetailActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/639/trunk/src/cmupdaterapp/ui/ScreenshotDetailActivity.java
+END

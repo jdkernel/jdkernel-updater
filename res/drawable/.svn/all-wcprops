@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/639/trunk/res/drawable
+END
+imagebutton_left_default.png
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/540/trunk/res/drawable/imagebutton_left_default.png
+END
+imagebutton_left_pressed.png
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/540/trunk/res/drawable/imagebutton_left_pressed.png
+END
+imagebutton_right_default.png
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/540/trunk/res/drawable/imagebutton_right_default.png
+END
+imagebutton_left_selected.png
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/540/trunk/res/drawable/imagebutton_left_selected.png
+END
+imagebutton_right_pressed.png
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/540/trunk/res/drawable/imagebutton_right_pressed.png
+END
+cmu_loading.png
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/554/trunk/res/drawable/cmu_loading.png
+END
+imagebutton_right_selected.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/540/trunk/res/drawable/imagebutton_right_selected.png
+END
+imagebutton_left.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/639/trunk/res/drawable/imagebutton_left.xml
+END
+loading.9.png
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/624/trunk/res/drawable/loading.9.png
+END
+background.9.png
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/624/trunk/res/drawable/background.9.png
+END
+imagebutton_right.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/639/trunk/res/drawable/imagebutton_right.xml
+END
+screenshot_background.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/639/trunk/res/drawable/screenshot_background.xml
+END
+icon.png
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/531/trunk/res/drawable/icon.png
+END

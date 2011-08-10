@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/637/trunk/src/cmupdaterapp/interfaces
+END
+IUpdateCheckServiceCallback.aidl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/566/trunk/src/cmupdaterapp/interfaces/IUpdateCheckServiceCallback.aidl
+END
+IUpdateCheckService.aidl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/563/trunk/src/cmupdaterapp/interfaces/IUpdateCheckService.aidl
+END
+IDownloadServiceCallback.aidl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/602/trunk/src/cmupdaterapp/interfaces/IDownloadServiceCallback.aidl
+END
+IDownloadService.aidl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/637/trunk/src/cmupdaterapp/interfaces/IDownloadService.aidl
+END

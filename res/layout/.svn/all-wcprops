@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/650/trunk/res/layout
+END
+screenshots.xml
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/639/trunk/res/layout/screenshots.xml
+END
+screenshots_detail.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/639/trunk/res/layout/screenshots_detail.xml
+END
+main.xml
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/644/trunk/res/layout/main.xml
+END
+notification.xml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/639/trunk/res/layout/notification.xml
+END
+download.xml
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/639/trunk/res/layout/download.xml
+END
+themelist_new.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/639/trunk/res/layout/themelist_new.xml
+END
+main_themesstub.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/644/trunk/res/layout/main_themesstub.xml
+END
+changelog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/639/trunk/res/layout/changelog.xml
+END
+itemtemplate_themelist.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/639/trunk/res/layout/itemtemplate_themelist.xml
+END
+nosdcardtoast.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/639/trunk/res/layout/nosdcardtoast.xml
+END
+applyupdate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/639/trunk/res/layout/applyupdate.xml
+END
+itemtemplate_updatelist.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/639/trunk/res/layout/itemtemplate_updatelist.xml
+END
+about.xml
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/639/trunk/res/layout/about.xml
+END
+themelist.xml
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/639/trunk/res/layout/themelist.xml
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/657/trunk/src/cmupdaterapp/tasks
+END
+UpdateCheckTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/647/trunk/src/cmupdaterapp/tasks/UpdateCheckTask.java
+END
+ChangelogTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/656/trunk/src/cmupdaterapp/tasks/ChangelogTask.java
+END
+DownloadImageTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/657/trunk/src/cmupdaterapp/tasks/DownloadImageTask.java
+END
+MD5CheckerTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/639/trunk/src/cmupdaterapp/tasks/MD5CheckerTask.java
+END

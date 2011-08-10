@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/639/trunk/src/cmupdaterapp/listadapters
+END
+ThemeListAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/639/trunk/src/cmupdaterapp/listadapters/ThemeListAdapter.java
+END
+ScreenshotGridViewAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/639/trunk/src/cmupdaterapp/listadapters/ScreenshotGridViewAdapter.java
+END
+UpdateListAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/639/trunk/src/cmupdaterapp/listadapters/UpdateListAdapter.java
+END

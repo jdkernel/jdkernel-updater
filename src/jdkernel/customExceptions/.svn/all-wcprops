@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/639/trunk/src/cmupdaterapp/customExceptions
+END
+NotEnoughSpaceException.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/639/trunk/src/cmupdaterapp/customExceptions/NotEnoughSpaceException.java
+END
+InvalidPictureException.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/639/trunk/src/cmupdaterapp/customExceptions/InvalidPictureException.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/657/trunk/src/cmupdaterapp/utils
+END
+SysUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/639/trunk/src/cmupdaterapp/utils/SysUtils.java
+END
+Preferences.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/657/trunk/src/cmupdaterapp/utils/Preferences.java
+END
+MD5.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/639/trunk/src/cmupdaterapp/utils/MD5.java
+END
+StringUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/639/trunk/src/cmupdaterapp/utils/StringUtils.java
+END
+UpdateFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/639/trunk/src/cmupdaterapp/utils/UpdateFilter.java
+END
+ImageUtilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/639/trunk/src/cmupdaterapp/utils/ImageUtilities.java
+END
