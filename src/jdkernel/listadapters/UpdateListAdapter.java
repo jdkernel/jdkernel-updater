@@ -21,11 +21,13 @@ public class UpdateListAdapter<T> extends ArrayAdapter<T> {
         _inflater = (LayoutInflater) context.getSystemService(Context.LAYOUT_INFLATER_SERVICE);
     }
 
-    public View getDropDownView(int position, View convertView, ViewGroup parent) {
+    @Override
+	public View getDropDownView(int position, View convertView, ViewGroup parent) {
         return getView(position, convertView, parent);
     }
 
-    public View getView(int position, View convertView, ViewGroup parent) {
+    @Override
+	public View getView(int position, View convertView, ViewGroup parent) {
         View row = convertView;
         ViewWrapper wrapper;
         if (row == null) {

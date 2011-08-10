@@ -590,7 +590,8 @@ public class UpdateCheckService extends Service {
     }
 
     private final Handler ToastHandler = new Handler() {
-        public void handleMessage(Message msg) {
+        @Override
+		public void handleMessage(Message msg) {
             if (msg.arg1 != 0)
                 Toast.makeText(UpdateCheckService.this, msg.arg1, Toast.LENGTH_LONG).show();
             else

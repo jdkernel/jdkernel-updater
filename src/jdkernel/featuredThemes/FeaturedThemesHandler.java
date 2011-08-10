@@ -37,7 +37,8 @@ class FeaturedThemesHandler extends DefaultHandler {
      * Can provide attribute(s), when xml was like:
      * <tag attribute="attributeValue">
      */
-    public void startElement(String namespaceURI, String localName, String qName, Attributes atts) throws SAXException {
+    @Override
+	public void startElement(String namespaceURI, String localName, String qName, Attributes atts) throws SAXException {
         if (localName.equalsIgnoreCase(Constants.FEATURED_THEMES_TAG)) {
             //New Theme. Start a new Object
             currentTheme = new ThemeList();

@@ -209,7 +209,8 @@ public class ConfigActivity extends PreferenceActivity {
         });
     }
 
-    public void onActivityResult(int requestCode, int resultCode, Intent intent) {
+    @Override
+	public void onActivityResult(int requestCode, int resultCode, Intent intent) {
         Log.d(TAG, "onActivityResult requestCode: " + requestCode);
         //Switch is necessary, because RingtonePreference and QRBarcodeScanner call the same Event
         switch (requestCode) {

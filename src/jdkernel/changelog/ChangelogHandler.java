@@ -33,7 +33,8 @@ public class ChangelogHandler extends DefaultHandler {
      * Can provide attribute(s), when xml was like:
      * <tag attribute="attributeValue">
      */
-    public void startElement(String namespaceURI, String localName, String qName, Attributes atts) throws SAXException {
+    @Override
+	public void startElement(String namespaceURI, String localName, String qName, Attributes atts) throws SAXException {
         if (localName.equalsIgnoreCase(Constants.VERSION_TAG)) {
             //New Version. Start a new Object
             currentVersion = new Version();

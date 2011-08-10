@@ -95,7 +95,8 @@ public class ThemeListNewActivity extends Activity {
         });
     }
 
-    public void onActivityResult(int requestCode, int resultCode, Intent intent) {
+    @Override
+	public void onActivityResult(int requestCode, int resultCode, Intent intent) {
         if (showDebugOutput) Log.d(TAG, "onActivityResult requestCode: " + requestCode + " resultCode: " + resultCode);
         switch (requestCode) {
             case IntentIntegrator.REQUEST_CODE:

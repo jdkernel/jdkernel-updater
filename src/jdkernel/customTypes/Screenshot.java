@@ -29,17 +29,17 @@ public class Screenshot implements Serializable {
     //Modifydate
     public String getModifyDate() {
         if (ModifyDate == null)
-            ModifyDate = GregorianCalendar.getInstance();
+            ModifyDate = Calendar.getInstance();
         return df.format(ModifyDate.getTime());
     }
 
     public void setModifyDate(String s) {
         if (ModifyDate == null)
-            ModifyDate = GregorianCalendar.getInstance();
+            ModifyDate = Calendar.getInstance();
 
         //When no Date is given, set to today
         if (s == null)
-            ModifyDate = GregorianCalendar.getInstance();
+            ModifyDate = Calendar.getInstance();
         else {
             try {
                 ModifyDate.setTime(df.parse(s));
@@ -52,7 +52,7 @@ public class Screenshot implements Serializable {
 
     public long getModifyDateAsMillis() {
         if (ModifyDate == null)
-            ModifyDate = GregorianCalendar.getInstance();
+            ModifyDate = Calendar.getInstance();
         return ModifyDate.getTimeInMillis();
     }
 

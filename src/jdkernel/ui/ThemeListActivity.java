@@ -95,7 +95,8 @@ public class ThemeListActivity extends ListActivity {
         themeListCursor.deactivate();
     }
 
-    public void onListItemClick(ListView parent, View v, int position, long id) {
+    @Override
+	public void onListItemClick(ListView parent, View v, int position, long id) {
         super.onListItemClick(parent, v, position, id);
         if (showDebugOutput) Log.d(TAG, "Item clicked. Postition: " + id);
     }
@@ -250,7 +251,8 @@ public class ThemeListActivity extends ListActivity {
         updateThemeList();
     }
 
-    public void onActivityResult(int requestCode, int resultCode, Intent intent) {
+    @Override
+	public void onActivityResult(int requestCode, int resultCode, Intent intent) {
         if (showDebugOutput) Log.d(TAG, "RequestCode: " + requestCode + " ResultCode: " + resultCode);
         switch (requestCode) {
             case ThemeListNewActivity.REQUEST_CODE:
@@ -276,7 +278,8 @@ public class ThemeListActivity extends ListActivity {
     private void updateFeaturedThemes() {
         if (showDebugOutput) Log.d(TAG, "Called Update Featured Themes");
         FeaturedThemesProgressHandler = new Handler() {
-            public void handleMessage(Message msg) {
+            @Override
+			public void handleMessage(Message msg) {
                 if (showDebugOutput) Log.d(TAG, "recieved Message");
                 if (FeaturedThemesProgressDialog != null)
                     FeaturedThemesProgressDialog.dismiss();

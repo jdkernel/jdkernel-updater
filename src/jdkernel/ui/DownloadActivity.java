@@ -205,7 +205,8 @@ public class DownloadActivity extends Activity {
             }
             //Start Downloading
             Thread t = new Thread() {
-                public void run() {
+                @Override
+				public void run() {
                     try {
                         if (myService.DownloadRunning())
                             ui = myService.getCurrentUpdate();
@@ -258,7 +259,8 @@ public class DownloadActivity extends Activity {
     private static final int DOWNLOAD_ERROR = 4;
 
     private final Handler mHandler = new Handler() {
-        public void handleMessage(Message msg) {
+        @Override
+		public void handleMessage(Message msg) {
             switch (msg.what) {
                 case UPDATE_DOWNLOAD_PROGRESS:
                     DownloadProgress dp = (DownloadProgress) msg.obj;
