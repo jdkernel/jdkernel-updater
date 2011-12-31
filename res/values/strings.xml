@@ -9,9 +9,9 @@
 	<string name="apply_unable_to_reboot_toast">Unable to reboot into recovery</string>
 	<string name="apply_trying_to_get_root_access">Trying to get root access to reboot in recovery mode</string>
 
-	<string name="available_updates_text">Please select the Kernel to download:</string>
+	<string name="available_updates_text">Please select the rom to download:</string>
 	<string name="choose_available_update_text">Download</string>
-	<string name="no_updates_found_instructions">No Kernels found.\nPress \'Check now\' to manually check for new updates</string>
+	<string name="no_updates_found_instructions">No roms found.\nPress \'Check now\' to manually check for new updates</string>
 	<string name="no_themes_found_instructions">No Themes found.\nPress \'Check now\' to manually check for new updates</string>
 	<string name="downloaded_update_found_text">Updates found in Update Folder:</string>
 	<string name="checking_for_updates">Checking for updates</string>
@@ -87,7 +87,7 @@ PLEASE REBOOT INTO RECOVERY MANUALLY *BEFORE* APPLYING THIS UPDATE IF YOU WANT T
 	<string name="changelog_progress_title">Please wait ...</string>
 	<string name="changelog_progress_body">Trying to download the changelog.xml</string>
 
-	<string name="changelog_button_text">Changelog of selected Kernel</string>
+	<string name="changelog_button_text">Changelog of selected rom</string>
 	<string name="no_changelog_found">No Changelog found</string>
 
 	<string name="changelog_title_rom">Update Changelog</string>
@@ -103,7 +103,7 @@ PLEASE REBOOT INTO RECOVERY MANUALLY *BEFORE* APPLYING THIS UPDATE IF YOU WANT T
 	
 	<string name="md5_check_cancelled">MD5 Check was Cancelled</string>
 	
-	<string name="button_available_updates">Kernel</string>
+	<string name="button_available_updates">ROM</string>
 	<string name="button_available_themes">Themes</string>
 	<string name="button_existing_updates">Existing</string>
 	
@@ -176,12 +176,12 @@ PLEASE REBOOT INTO RECOVERY MANUALLY *BEFORE* APPLYING THIS UPDATE IF YOU WANT T
 	<string name="p_update_check_freq_title">Update Checking frequency</string>
 	<string name="p_update_check_freq_summary">Set update checking frequency</string>
 
-	<string name="p_display_older_rom_versions_title">Display All Kernel Updates</string>
-	<string name="p_display_older_rom_versions_summary">Display all Kernel updates, including old versions</string>
+	<string name="p_display_older_rom_versions_title">Display All rom Updates</string>
+	<string name="p_display_older_rom_versions_summary">Display all rom updates, including old versions</string>
 	<string name="p_display_older_rom_versions_changed">Please check for updates again, to update the List of available updates</string>
 
-	<string name="p_allow_experimental_rom_versions_title">Display Experimental Kernels</string>
-	<string name="p_allow_experimental_rom_versions_summary">Display Kernel updates that are Experimental (non-stable)</string>
+	<string name="p_allow_experimental_rom_versions_title">Display Experimental ROMs</string>
+	<string name="p_allow_experimental_rom_versions_summary">Display rom updates that are Experimental (non-stable)</string>
 	<string name="p_allow_experimental_rom_versions_changed">Please check for updates again, to update the List of available updates</string>
 
 	<string name="p_display_older_theme_versions_title">Display All Theme Updates</string>
@@ -198,16 +198,16 @@ PLEASE REBOOT INTO RECOVERY MANUALLY *BEFORE* APPLYING THIS UPDATE IF YOU WANT T
 	<string name="p_notification_ringtone_title">Notification Ringtone</string>
 	<string name="p_notification_ringtone_summary">Choose a ringtone for Updater alerts</string>
 
-	<string name="p_update_file_url_title">Kernel Update Server</string>
-	<string name="p_update_file_url_summary">Change the Kernel Update Server</string>
-	<string name="p_update_file_url_changed">Kernel Update URL set back to default</string>
+	<string name="p_update_file_url_title">ROM Update Server</string>
+	<string name="p_update_file_url_summary">Change the ROM Update Server</string>
+	<string name="p_update_file_url_changed">ROM Update URL set back to default</string>
 
-	<string name="p_update_file_url_def_title">Reset Kernel Update Server</string>
-	<string name="p_update_file_url_def_summary">Reset the location of the Kernel Update Server back to default</string>
+	<string name="p_update_file_url_def_title">Reset ROM Update Server</string>
+	<string name="p_update_file_url_def_summary">Reset the location of the ROM Update Server back to default</string>
 
 	<string name="p_update_file_url_qr_title">Scan Barcode</string>
-	<string name="p_update_file_url_qr_summary">Scan QR Code for Kernel Update File URL</string>
-	<string name="p_update_file_changed_toast">Kernel Update File URL: </string>
+	<string name="p_update_file_url_qr_summary">Scan QR Code for ROM Update File URL</string>
+	<string name="p_update_file_changed_toast">ROM Update File URL: </string>
 
 	<string name="p_vibrate_title">Vibrate</string>
 	<string name="p_vibrate_summary">Vibrate on Notifications</string>
@@ -234,8 +234,8 @@ PLEASE REBOOT INTO RECOVERY MANUALLY *BEFORE* APPLYING THIS UPDATE IF YOU WANT T
 	<string name="p_notifications_screen_title">Notifications</string>
 	<string name="p_notifications_screen_summary">Set Notification Settings</string>
 	
-	<string name="p_rom_screen_title">Kernel Update Settings</string>
-	<string name="p_rom_screen_summary">Set Settings for Kernel Updates</string>
+	<string name="p_rom_screen_title">ROM Update Settings</string>
+	<string name="p_rom_screen_summary">Set Settings for ROM Updates</string>
 	
 	<string name="p_theme_screen_title">Theme Update Settings</string>
 	<string name="p_theme_screen_summary">Set Settings for Theme Updates</string>
@@ -267,7 +267,7 @@ PLEASE REBOOT INTO RECOVERY MANUALLY *BEFORE* APPLYING THIS UPDATE IF YOU WANT T
 	
 	<!--  new Strings -->
 	<string name="alert_old_version_title">Old Version</string>
-	<string name="alert_old_version_summary">You are running an old Kernel-Version.
+	<string name="alert_old_version_summary">You are running an old ROM-Version.
 	To use the Updater, you have to upgrade manually.
 	Click the open Browser Button below, to open up the Instructions</string>
 	<string name="alert_old_version_ok">Ok</string>
