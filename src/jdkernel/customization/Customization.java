@@ -2,9 +2,9 @@ package jdkernel.customization;
 
 public class Customization {
     //The String from the build.prop before the Version
-    public static final String RO_MOD_START_STRING = "CyanogenMod-";
+    public static final String RO_MOD_START_STRING = "LiquidSmooth-";
     //Minimum Supported Version (So the User has to install google apps and so before)
-    public static final String MIN_SUPPORTED_VERSION_STRING = RO_MOD_START_STRING + "4.1.99";
+    public static final String MIN_SUPPORTED_VERSION_STRING = RO_MOD_START_STRING + "RLS1";
     //Updateinstructions for the min supported Version
     public static final String UPDATE_INSTRUCTIONS_URL = "http://wiki.cyanogenmod.com/index.php/Upgrading_From_Older_CyanogenMod_or_other_rooted_ROMs";
     //DB filename
