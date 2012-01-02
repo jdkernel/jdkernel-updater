@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<string name="app_name">JDkernel Updater</string>
+	<string name="app_name">Liquid Updater</string>
 	<!-- About Strings -->
 	<string name="about_comments">Auto-updater for Team Liquid.</string>
 	<string name="about_credits">Thanks to Sergi Vélez for the original JFUpdater.\nThread Starter: garok89 - Ross McAusland\nProgrammer: FireFart - Christian Mehlmauer\nProgrammer: senab - Chris Banes\nProgrammer: jdkoreclipse\nGraphics: prash\nGraphics: trock79\nBeta-Testers: willmav5000, tuxfoo, DirectMatrix, amarkow2\nAnd big thanks to all the guys @ XDA for the translations and other stuff ;)\n\nBig thanks to Cyanogen for this app!\n\n</string>
